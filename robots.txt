@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heigoothiz.jhkforecasts.com/sitemap.xml
